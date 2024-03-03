@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-module-react/static/css/main.17794069.css",
+    "main.js": "/f4-module-react/static/js/main.ead18d3b.js",
+    "index.html": "/f4-module-react/index.html",
+    "main.17794069.css.map": "/f4-module-react/static/css/main.17794069.css.map",
+    "main.ead18d3b.js.map": "/f4-module-react/static/js/main.ead18d3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17794069.css",
+    "static/js/main.ead18d3b.js"
+  ]
+}
